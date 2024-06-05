@@ -25,6 +25,6 @@ deleteHandlers.test.js -PASSED
 
 # Code Style:
 camelCase: ex. actualStatusCode or actualResponseBody
-let actualStatusCode - can be change using the "let" value
-const response - can't be changed using the "const" value
+let actualStatusCode - can be change using the "let" 
+const response - can't be changed using the "const" 
 naming functions using verbs: "let" "try" "catch"
